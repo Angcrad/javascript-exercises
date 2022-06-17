@@ -2,7 +2,7 @@ const repeatString = function(string, num)
 {
 	if(num<0)
 	{
-		return "ERROR"
+		return "ERROR";
 	}
 	let cadena="";
 	for(let i=0;i<num;i++)
